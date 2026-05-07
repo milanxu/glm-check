@@ -1,0 +1,16 @@
+{
+    "bigmodel": {
+        "login_url": "https://bigmodel.cn/login",
+        "coding_url": "https://bigmodel.cn/glm-coding",
+        "purchase_url": "https://bigmodel.cn/glm-coding"
+    },
+    "selenium": {
+        "headless": false,
+        "implicit_wait": 10,
+        "page_load_timeout": 30
+    },
+    "refresh_interval": 0.5,
+    "target_plans": [
+        "Lite"
+    ]
+}
